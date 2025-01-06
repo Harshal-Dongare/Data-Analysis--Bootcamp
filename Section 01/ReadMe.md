@@ -1,31 +1,46 @@
-# What does a Data Analyst do? and it's roadmap?
+# What Does a Data Analyst Do, and What is the Roadmap?
 
-## Two types of companies
+## Two Types of Companies:
 
-1. Product based companies
-   In product based companies, you'll have different products and departments.
-2. Service based companies
-   In service based companies, you'll have clients.
+1. **Product-Based Companies**  
+   Focus on developing their own products and managing various departments.
 
-## Different phases when Data Science project comes:
+2. **Service-Based Companies**  
+   Work with clients to provide services or solutions.
 
-1. **Requirement Gathering** :
-   In this phase, two important group of people will be involved:
-    - **Business Analyst**<br>
-      Business Analyst is a team from the Data Science projects who will help you to understand the business problem.
-    - **Domain Expert/ Product Owner**<br>
-      Domain expert is particularly from client side. They have the entire idea about the products and what are the requirements is there to be solved.
-2. **Data Analyst/ Data Scientist** :<br>
-   All these requirements sent to Data Analyst/ Data Scientist.
-   Again they do a discussion with a domain expert or product owner.The first thing they find out is that from where they have to probably consider the data.
-   Data may be present in internal database, may be present in 3rd party cloud based API's.
-   One more team is also involved in this phase - **Big Data Engineer**. After the data source is identified, they create a pipeline which is responsible for providing all the data for the data science project.
-   After that data may be stored in MondoDB, MySQL, Cassandra, VectorDB, etc. as per the requirement.
+---
 
-### Once the data source is created, then we start the lifecycle of the data science project.
+## Phases of a Data Science Project:
 
-1. Data Analyst:<br>
-    - Data analyst involved in **Feature Engineering**, cleaning the raw data.
-    - Perform **Exploratory Data Analysis** and **Statistical Analysis**
-    - Create **reports** using business intelligence and data visualization tools.
-    - Report forwarded to the stakeholders who are controlling the entire business. From these reports they will be able to make business decisions.
+### 1. Requirement Gathering
+
+Key people involved:
+
+-   **Business Analyst**:  
+    Understands the business problem and communicates it clearly.
+-   **Domain Expert/Product Owner**:  
+    From the client side, they provide deep knowledge about the product and specific requirements.
+
+### 2. Data Analyst/Data Scientist
+
+-   Analyze the requirements with domain experts or product owners.
+-   Identify data sources, which could be internal databases or external APIs.
+-   Collaborate with **Big Data Engineers** to create data pipelines that gather and process data.
+-   Store the processed data in databases like MySQL, MongoDB, Cassandra, or others, depending on the project's needs.
+
+---
+
+## Data Science Project Lifecycle (Key Steps for a Data Analyst):
+
+1. **Feature Engineering**  
+   Clean and prepare raw data for analysis.
+
+2. **Exploratory Data Analysis (EDA)**  
+   Understand patterns, trends, and insights from the data.
+
+3. **Statistical Analysis**  
+   Apply statistical methods to interpret data and draw conclusions.
+
+4. **Report Creation**  
+   Use tools for **data visualization** and **business intelligence** to create reports.
+    - These reports help stakeholders make informed business decisions.
