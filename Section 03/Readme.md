@@ -1,4 +1,4 @@
-## Command to set up vs code environment
+## Getting started with VS Code with environment
 
 ```bash
 conda create -p venv python==3.12.8
@@ -18,7 +18,7 @@ conda create -p venv python==3.12.8
 conda activate venv/
 ```
 
-## To run a code in notebook run below command
+## To run a code in notebook Cells, run below command
 
 ```bash
 pip install ipykernel
