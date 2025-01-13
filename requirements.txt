@@ -1,4 +1,3 @@
 
-Packages installed :
-
-ipykernal
+numpy
+ipykernel
